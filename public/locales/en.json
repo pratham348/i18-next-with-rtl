@@ -1,0 +1,17 @@
+{
+ "hello": "Hello in ENGLISH",
+ "page.home.head.title": "Next.js i18n example",
+ "page.home.head.meta.description": "Next.js i18n example - English",
+ "page.home.title": "Welcome to <b>Next.js i18n tutorial</b>",
+ "page.home.description": "You are currently viewing the homepage in English 🚀",
+
+ "index.getStarted": " Get started by editing",
+ "index.docs": "Docs",
+ "index.docsMessage": "Find in-depth information about Next.js features and API.",
+ "index.learn": "Learn",
+ "index.learnMessage": "Learn about Next.js in an interactive course with quizzes!",
+ "index.template": "Templates",
+ "index.templateMessage": "Discover and deploy boilerplate example Next.js projects.",
+ "index.deploy": "Deploy",
+ "index.deployMessage": "  Instantly deploy your Next.js site to a shareable URL with Vercel."
+}
